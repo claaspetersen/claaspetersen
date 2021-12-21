@@ -16,7 +16,7 @@
 - 👨‍💻 I’m working at [@TypeFox](https://github.com/TypeFox)
 
 
-- 💾 I’m interested in old tech (Mostly computers or consoles) (Like: <img align="center" src="assets/c64.svg" alt="Commodore C64" height="20" /> or <img align="center" src="assets/amiga.svg" alt="Commodore Amiga" height="20" />)
+- 💾 I’m interested in old tech (Mostly computers) (Like: <img align="center" src="assets/c64.svg" alt="Commodore C64" height="20" /> or <img align="center" src="assets/amiga.svg" alt="Commodore Amiga" height="20" />)
 
 <br/>
 
