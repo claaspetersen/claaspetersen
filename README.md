@@ -10,7 +10,7 @@
 - 👋 Hi, I’m [@claaspetersen](https://github.com/claaspetersen)
 
 
-- 🌱 I’m currently learning TypeScript and the development of DSLs
+- 🌱 I’m currently learning TypeScript and the development of DSLs with [Langium](https://github.com/langium/langium)
 
 
 - 👨‍💻 I’m working at [@TypeFox](https://github.com/TypeFox)
