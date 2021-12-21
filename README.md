@@ -27,7 +27,7 @@
 
 ## What I use:  
 <div align="center">  
-  <svg style="margin: 10px; fill: #3178C6" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" alt="TypeScript" height="25" />  
+  <img style="margin: 10px; filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" alt="TypeScript" height="25" />  
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" height="25" />  
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" alt="React" height="25" />  
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/firebase.svg" alt="Firebase" height="25" />  
