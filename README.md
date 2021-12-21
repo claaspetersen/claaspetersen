@@ -20,7 +20,7 @@
 
 <br/>
 
-## What I use:
+## Languages and tools I use:
 <div align="center">
   <img style="margin: 15px" src="assets/typescript.svg" alt="TypeScript" height="25" />
   <img style="margin: 15px" src="assets/javascript.svg" alt="JavaScript" height="25" />
