@@ -1,11 +1,3 @@
-## Random Meme:
-
-<div align="center">
-  <img src="https://random-memer.herokuapp.com/" align="center" height="25%" width="25%" />
-</div>
-
-<br/>
-
 ## About me:
 - 👋 Hi, I’m [@claaspetersen](https://github.com/claaspetersen)
 
