@@ -2,10 +2,7 @@
 - 👋 Hi, I’m [@claaspetersen](https://github.com/claaspetersen)
 
 
-- 🌱 I’m currently learning TypeScript and the development of DSLs with [Langium](https://github.com/langium/langium)
-
-
-- 👨‍💻 I’m working at [@TypeFox](https://github.com/TypeFox)
+- 👨‍💻 I’m working at [REWE digital](https://github.com/rewe-digital)
 
 
 - 💾 I’m interested in old tech (Mostly computer or gaming related) (Like: <img align="center" src="assets/c64.svg" alt="Commodore C64" height="20" /> or <img align="center" src="assets/amiga.svg" alt="Commodore Amiga" height="20" />)
